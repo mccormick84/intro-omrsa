@@ -94,7 +94,21 @@ layout:
 
 ### 큐넷 국가자격시험
 
-<figure><img src=".gitbook/assets/큐넷 125-5 1.svg" alt=""><figcaption></figcaption></figure>
+#### 125문항 5지 선다형
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/큐넷 125-5 1.svg" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+#### 125문항 4지 선다형
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/큐넷125-4.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ## <mark style="color:purple;">3. OMR 커스텀 기능</mark>
 
