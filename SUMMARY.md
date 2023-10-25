@@ -1,3 +1,3 @@
 # Table of contents
 
-* [OMRSA 소개](README.md)
+* [맥가이7 OMRSA](README.md)
