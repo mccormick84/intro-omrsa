@@ -2,6 +2,20 @@
 description: 학원관리 프로그램 없이 대량의 성적처리를 빠르고 정확하게!
 cover: .gitbook/assets/OMRSA_gitbook_cover (1).svg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 맥가이7 OMRSA
