@@ -98,27 +98,29 @@ layout:
 
 ### 큐넷 국가자격시험
 
-#### 125문항 5지 선다형
-
+{% tabs %}
+{% tab title="125문항 5지 선다형" %}
 <div align="left">
 
-<figure><img src=".gitbook/assets/큐넷 125-5 1.svg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/큐넷 125-5 1.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
+{% endtab %}
 
-#### 125문항 4지 선다형
-
+{% tab title="125문항 4지 선다형" %}
 <div align="left">
 
-<figure><img src=".gitbook/assets/큐넷125-4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/큐넷125-4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+{% endtab %}
+{% endtabs %}
 
-## <mark style="color:purple;">3. OMR 커스텀 기능</mark>
+## <mark style="color:purple;">3. OMR 커스텀</mark>
 
 제공되는 OMR 외에 원하는 형태의 OMR을 프로그램 내에서 만들어 사용할 수 있어요.
 
-해당 항목 외의 커스텀이 추가 필요하신 경우 [💬 맥가이 고객센터](https://macgai7.channel.io/home)로 별도 문의 주시면 상세히 답변드릴게요.
+해당 항목 외의 커스텀이 필요하신 경우 [💬 맥가이 고객센터](https://macgai7.channel.io/home)로 별도 문의 주시면 상세히 답변드릴게요.
 
 {% hint style="success" %}
 **변경 가능한 항목**
@@ -126,19 +128,39 @@ layout:
 1. 타이틀 및 로고
 2. 학번 타이틀 (최대 5자)
 3. 학번 자릿수 (4\~8자리)
-4. 객관식 문항 수 (최대 100문항, 주관식 사용 시 최대 50문항)
-5. 보기 갯수 : **5지 선다** 혹은 **4지 선다**
-6. 보기 타입: **12345** 또는 **ABCDE**
-7. 주관식 문항 수 (최대 8개)&#x20;
+4. 객관식 문항 설정 (최대 100문항)
+   * 보기 갯수 : **5지 선다** 혹은 **4지 선다**
+   * 보기 타입: **12345** 또는 **ABCDE**
+5. 주관식 문항 설정: 둘 중 하나만 사용 가능
+   * 점수 입력 방식 (최대 8문항)
+   * 숫자 답안 방식 (최대 12문항)
 {% endhint %}
 
 ### 커스텀 OMR 추가 메뉴
 
-<figure><img src=".gitbook/assets/OMR커스텀_1 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### 커스텀 적용 후
+### 커스텀 적용 예시
 
-<figure><img src=".gitbook/assets/omr커스텀_2 1.png" alt=""><figcaption></figcaption></figure>
+다양한 형태의 커스텀 OMR 카드 예시를 확인해보세요! 아래의 탭을 누르면 이미지를 확인할 수 있어요.
+
+{% tabs %}
+{% tab title="객관식만 사용" %}
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="객관식 + 점수입력" %}
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="객관식 + 숫자답안" %}
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="숫자답안만" %}
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## <mark style="color:purple;">4. 성적 결과 활용</mark>
 
